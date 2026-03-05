@@ -1,7 +1,7 @@
 # Membangun Sistem Manajemen Inventaris Sparepart Motor dengan Python: Studi Kasus CRUD 
 
 *Bagaimana prinsip CRUD yang dipakai industri bisa diimplementasikan dengan Python murni — tanpa framework, tanpa database, tanpa kompromi.*
-
+Oleh : Hafizh Hariyanto & Saddam Fachriza
 ---
 
 ## Latar Belakang
