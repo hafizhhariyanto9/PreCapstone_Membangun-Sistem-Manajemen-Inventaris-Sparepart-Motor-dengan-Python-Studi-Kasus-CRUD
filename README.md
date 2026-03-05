@@ -296,6 +296,6 @@ Kode lengkap tersedia di repositori GitHub kami. Diskusi dan kritik sangat disam
 
 ---
 
-*Ditulis oleh Hafizh dab Saddam.*
+*Ditulis oleh Hafizh Hariyanto dan Saddam Fachriza.*
 
 *Tags: #Python #SoftwareEngineering #CRUD #BackendDevelopment #InventoryManagement #ECommerce #PythonProgramming*
